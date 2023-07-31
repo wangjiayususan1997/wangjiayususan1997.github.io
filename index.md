@@ -23,5 +23,3 @@ My project aims to focus on designing and creating interactive interfaces to sup
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
-
-[06/16/23 Blog](https://docs.google.com/document/d/1HL8EGqQeaO4lpn1cmrAZbx11gocllXPmTj9yJBimKXY/edit?usp=sharing)
